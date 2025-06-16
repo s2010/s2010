@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🛠️ Languages & Technologies
+### Languages & Technologies
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/s2010?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/s2010?tab=repositories&q=&type=&language=javascript)
@@ -16,7 +16,7 @@
 [![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/s2010?tab=repositories&q=&type=&language=shell)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/s2010?tab=repositories)
 
-### 🧰 Frameworks & Tools
+### Frameworks & Tools
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/s2010)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://github.com/s2010)
